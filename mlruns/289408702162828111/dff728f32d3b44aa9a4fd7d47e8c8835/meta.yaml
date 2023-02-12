@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Furqan%20Ali/Desktop/python/MLOps/day_2/mlruns/289408702162828111/dff728f32d3b44aa9a4fd7d47e8c8835/artifacts
+end_time: 1675764659015
+entry_point_name: ''
+experiment_id: '289408702162828111'
+lifecycle_stage: active
+run_id: dff728f32d3b44aa9a4fd7d47e8c8835
+run_name: dazzling-calf-218
+run_uuid: dff728f32d3b44aa9a4fd7d47e8c8835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675764655678
+status: 3
+tags: []
+user_id: Furqan Ali

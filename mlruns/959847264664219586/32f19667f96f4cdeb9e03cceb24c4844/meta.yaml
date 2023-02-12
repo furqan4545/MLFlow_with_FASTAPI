@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Furqan%20Ali/Desktop/python/MLOps/day_2/mlruns/959847264664219586/32f19667f96f4cdeb9e03cceb24c4844/artifacts
+end_time: 1675746817636
+entry_point_name: ''
+experiment_id: '959847264664219586'
+lifecycle_stage: active
+run_id: 32f19667f96f4cdeb9e03cceb24c4844
+run_name: bemused-zebra-873
+run_uuid: 32f19667f96f4cdeb9e03cceb24c4844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675746809837
+status: 3
+tags: []
+user_id: Furqan Ali

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Furqan%20Ali/Desktop/python/MLOps/day_2/mlruns/754152983101363191/58fda999fb0445fca254c709c9b7f9ea/artifacts
+end_time: 1675968217422
+entry_point_name: ''
+experiment_id: '754152983101363191'
+lifecycle_stage: active
+run_id: 58fda999fb0445fca254c709c9b7f9ea
+run_name: iris_classifier_10-02-23
+run_uuid: 58fda999fb0445fca254c709c9b7f9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675968208203
+status: 3
+tags: []
+user_id: Furqan Ali
